@@ -43,7 +43,7 @@ Make sure you have the required datasets in the same directory or adjust the fil
 
 ## Paper Link
 For more details about the methodology and results, please refer to the paper:  
-[Effects of COVID-19 Lockdown Duration on Business Start-ups: U.S. Analysis](6).
+[Effects of COVID-19 Lockdown Duration on Business Start-ups: U.S. Analysis](Advanced_Econometrics_Research_Paper.pdf).
 
 ## Contact Information
 For questions regarding this repository or the code, please contact Aayusha Lamichhane at [lamichhaneaayusha@gmail.com].
