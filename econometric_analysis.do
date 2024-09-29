@@ -9,7 +9,7 @@
 ssc install did_multiplegt
 
 // Main data file 
-use CombinedData-Lamichhane.dta, clear
+use combined_data.dta, clear
 
 // Generating variables to xtset them
 encode State, gen(state_n)
